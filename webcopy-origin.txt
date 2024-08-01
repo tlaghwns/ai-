@@ -1,0 +1,140 @@
+Uri: https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700
+File Name: C:\Downloaded Web Sites\lifechangejob.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+File Name: C:\Downloaded Web Sites\lifechangejob.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+File Name: C:\Downloaded Web Sites\lifechangejob.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+File Name: C:\Downloaded Web Sites\lifechangejob.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://lifechangejob.com/
+File Name: C:\Downloaded Web Sites\lifechangejob.com\index.htm
+Content Type: text/html
+
+Uri: https://lifechangejob.com/assets/con05_img01.png
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\con05_img01.png
+Content Type: image/png
+
+Uri: https://lifechangejob.com/assets/css/colors/aqua.css
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\css\colors\aqua.css
+Content Type: text/css
+
+Uri: https://lifechangejob.com/assets/css/fonts/thicccboi.css
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\css\fonts\thicccboi.css
+Content Type: text/css
+
+Uri: https://lifechangejob.com/assets/css/plugins.css
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\css\plugins.css
+Content Type: text/css
+
+Uri: https://lifechangejob.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://lifechangejob.com/assets/fonts/custom/Custom.woff
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\fonts\custom\Custom.woff
+Content Type: application/font-woff
+
+Uri: https://lifechangejob.com/assets/fonts/custom/Custom.woff2
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\fonts\custom\Custom.woff2
+Content Type: font/woff2
+
+Uri: https://lifechangejob.com/assets/fonts/thicccboi/THICCCBOI-Bold.woff
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\fonts\thicccboi\THICCCBOI-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://lifechangejob.com/assets/fonts/thicccboi/THICCCBOI-Bold.woff2
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\fonts\thicccboi\THICCCBOI-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://lifechangejob.com/assets/fonts/thicccboi/THICCCBOI-Medium.woff
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\fonts\thicccboi\THICCCBOI-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://lifechangejob.com/assets/fonts/thicccboi/THICCCBOI-Medium.woff2
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\fonts\thicccboi\THICCCBOI-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://lifechangejob.com/assets/fonts/thicccboi/THICCCBOI-Regular.woff
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\fonts\thicccboi\THICCCBOI-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://lifechangejob.com/assets/fonts/thicccboi/THICCCBOI-Regular.woff2
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\fonts\thicccboi\THICCCBOI-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://lifechangejob.com/assets/fonts/unicons/Unicons.woff
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\fonts\unicons\Unicons.woff
+Content Type: application/font-woff
+
+Uri: https://lifechangejob.com/assets/fonts/unicons/Unicons.woff2
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\fonts\unicons\Unicons.woff2
+Content Type: font/woff2
+
+Uri: https://lifechangejob.com/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://lifechangejob.com/assets/img/photos/about13.jpg
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\img\photos\about13.jpg
+Content Type: image/jpeg
+
+Uri: https://lifechangejob.com/assets/img/photos/about13@2x.jpg
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\img\photos\about13@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://lifechangejob.com/assets/img/photos/about7.jpg
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\img\photos\about7.jpg
+Content Type: image/jpeg
+
+Uri: https://lifechangejob.com/assets/img/photos/about7@2x.jpg
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\img\photos\about7@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://lifechangejob.com/assets/img/photos/about9.jpg
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\img\photos\about9.jpg
+Content Type: image/jpeg
+
+Uri: https://lifechangejob.com/assets/img/photos/about9@2x.jpg
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\img\photos\about9@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://lifechangejob.com/assets/img/photos/lines.png
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\img\photos\lines.png
+Content Type: image/png
+
+Uri: https://lifechangejob.com/assets/img/svg/blob.svg
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\img\svg\blob.svg
+Content Type: image/svg+xml
+
+Uri: https://lifechangejob.com/assets/img/svg/blob2.svg
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\img\svg\blob2.svg
+Content Type: image/svg+xml
+
+Uri: https://lifechangejob.com/assets/img/svg/hex.svg
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\img\svg\hex.svg
+Content Type: image/svg+xml
+
+Uri: https://lifechangejob.com/assets/js/plugins.js
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\js\plugins.js
+Content Type: application/x-javascript
+
+Uri: https://lifechangejob.com/assets/js/theme.js
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\js\theme.js
+Content Type: application/x-javascript
+
+Uri: https://lifechangejob.com/assets/talk_ico.png
+File Name: C:\Downloaded Web Sites\lifechangejob.com\assets\talk_ico.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-Q3HHY879CX
+File Name: C:\Downloaded Web Sites\lifechangejob.com\gtag\js
+Content Type: application/javascript
+
